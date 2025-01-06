@@ -17,7 +17,7 @@
 ---
 
 <h3 align="left">🤝 Connect with Me:</h3>
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 20;">
   <a href="https://twitter.com/mayank120210" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
