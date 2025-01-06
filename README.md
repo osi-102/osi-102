@@ -6,7 +6,7 @@
 </p>
 
 - 🌐 **Portfolio**: [https://mayank-smoky.vercel.app/](https://mayank-smoky.vercel.app/)
-- 📝 **Articles**: I regularly write on [Medium](https://medium.com/@2003mayankchauhan.b)
+- 📝 **Articles**: I sometime write on [Medium](https://medium.com/@2003mayankchauhan.b)
 - 📞 **Contact**: 8881156542
 - 📄 **Resume**: [View Here](https://drive.google.com/file/d/1iBuzbfSpopxUDe5Nk6E7FG3PafLZdQPF/view?usp=drive_link)
 
